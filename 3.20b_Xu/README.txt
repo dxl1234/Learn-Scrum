@@ -1,19 +1,19 @@
-2018.3.20 ÂÛÎÄµ÷ÑĞ ¹²11Æª Xu ºÄÊ±1h
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-À´×Ô3.19_Xu [×ÛÊö]»ùÓÚÉúÀí´óÊı¾İµÄÇéĞ÷Ê¶±ğÑĞ¾¿½øÕ¹ ÒıÓÃ[8-18]£¬¹ØÓÚÇéĞ÷Ä£ĞÍÀíÂÛ
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-paper¼ò½é¿´ÄÇÆª×ÛÊö£¬»¹ËãÇåÎú
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+2018.3.20 è®ºæ–‡è°ƒç ” å…±11(8)ç¯‡ Xu è€—æ—¶1h
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+æ¥è‡ª3.19_Xu [ç»¼è¿°]åŸºäºç”Ÿç†å¤§æ•°æ®çš„æƒ…ç»ªè¯†åˆ«ç ”ç©¶è¿›å±• å¼•ç”¨[8-18]ï¼Œå…³äºæƒ…ç»ªæ¨¡å‹ç†è®º
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+paperç®€ä»‹çœ‹é‚£ç¯‡ç»¼è¿°ï¼Œè¿˜ç®—æ¸…æ™°
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
 Izard C E. The Many Meanings/Aspects of Emotion: Definitions, Functions, Activation, and Regulation[J]. Emotion Review, 2010, 2(4):363-370.
 
 Broek E L V D. Ubiquitous emotion-aware computing[J]. Personal & Ubiquitous Computing, 2013, 17(1):53-67.
 
-¡¾ÏÂ²»µ½¡¿
+ã€ä¸‹ä¸åˆ°ã€‘
 Mehrabian A. Pleasure-arousal-dominance: A general framework for describing and measuring individual differences in Temperament[J]. Current Psychology, 1996, 14(4):261-292.
 
-ÁõìÇ, ¸¶Çï·¼, ¸µĞ¡À¼. ÈÏÖªÓëÇéĞ÷µÄ½»»¥×÷ÓÃ[J]. ¿ÆÑ§Í¨±¨, 2009, 54(18):2783-2796.
+åˆ˜çƒ¨, ä»˜ç§‹èŠ³, å‚…å°å…°. è®¤çŸ¥ä¸æƒ…ç»ªçš„äº¤äº’ä½œç”¨[J]. ç§‘å­¦é€šæŠ¥, 2009, 54(18):2783-2796.
 
-¡¾¡¿
+ã€ã€‘
 Collet C, Vernet-Maury E, Dittmar A. Autonomic nervous system response pattern specificity to basic emotions[J]. International Journal of Psychophysiology, 1997, 25(1):45-57.
 
 Barrett L F. Are Emotions Natural Kinds?[J]. Perspectives on Psychological Science, 2006, 1(1):28.
@@ -22,8 +22,8 @@ Liu Y, Sourina O, Nguyen M K. Real-Time EEG-Based Human Emotion Recognition and 
 
 Fontaine J R J, Scherer K R, Roesch E B, et al. The World of Emotions Is Not Two-Dimensional[J]. Psychological Science, 2007, 18(12):1050.
 
-¡¾¡¿
-Yin D, Bond S D, Zhang H. Anxious or Angry? Effects of Discrete Emotions on the Perceived Helpfulness of Online Reviews[J]. Mis Quarterly, 2014, 38:p¨¢gs. 539-560.
+ã€ã€‘
+Yin D, Bond S D, Zhang H. Anxious or Angry? Effects of Discrete Emotions on the Perceived Helpfulness of Online Reviews[J]. Mis Quarterly, 2014, 38:pÃ¡gs. 539-560.
 
 Robinson M D. Measures of emotion: A review[J]. Cogn Emot, 2009, 23(2):209-237.
 
